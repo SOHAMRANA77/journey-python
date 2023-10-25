@@ -1,0 +1,4 @@
+auther is ChatGPT
+hello
+without F.close()
+123456789
